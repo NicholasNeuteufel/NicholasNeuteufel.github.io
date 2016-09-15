@@ -69,6 +69,10 @@ a:focus {
     background-color: #000;
 }
 
+.navbar .nav {
+    float: none;
+}
+
 .navbar-custom .navbar-brand {
     font-weight: 700;
 }
